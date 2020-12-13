@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbufmgrf.a  CMakeFiles/bufmgrf.dir/bufmgr.o CMakeFiles/bufmgrf.dir/bmtest.o CMakeFiles/bufmgrf.dir/frame.o CMakeFiles/bufmgrf.dir/linkedframe.o CMakeFiles/bufmgrf.dir/lru_queue.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbufmgrf.a
